@@ -1,0 +1,2 @@
+# Library-Book-Management-System-using-Collections-Generics-Lambda-Expressions-Streams-API
+This repository contains two console-based Java applications designed to demonstrate the practical use of Collections, Generics, Lambda Expressions, and the Streams API. These projects focus on writing clean, modern Java code while performing real-world data operations like sorting, filtering, aggregation, and analysis.
